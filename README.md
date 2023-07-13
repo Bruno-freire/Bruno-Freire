@@ -37,6 +37,7 @@ In the back-end:
 
 ![npm](https://img.shields.io/badge/-npm-232323?style=flat&labelColor=CB3837&logo=npm&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-232323?style=flat&labelColor=F05032&logo=git&logoColor=ffffff)
+[![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&labelColor=333333&logo=swagger&logoColor=85EA2D)](URL_DO_SEU_DOCUMENTO_SWAGGER)
 
 ## Contato
 
