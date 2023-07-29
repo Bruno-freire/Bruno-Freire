@@ -26,11 +26,13 @@ In the front-end
 
 In the back-end:
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-232323?style=flat&labelColor=000000&logo=sequelize&logoColor=52B0E7)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-232323?style=flat&labelColor=000000&logo=mongodb&logoColor=47A248)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
+![Prisma](https://img.shields.io/badge/-Prisma-1B222D?style=flat&logo=prisma&logoColor=38B2AC)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 
 **Outras ferramentas:**
@@ -38,6 +40,8 @@ In the back-end:
 ![npm](https://img.shields.io/badge/-npm-232323?style=flat&labelColor=CB3837&logo=npm&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-232323?style=flat&labelColor=F05032&logo=git&logoColor=ffffff)
 [![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&labelColor=333333&logo=swagger&logoColor=85EA2D)](URL_DO_SEU_DOCUMENTO_SWAGGER)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=ffffff)
+![API RESTful](https://img.shields.io/badge/-API%20RESTful-FF5733?style=flat)
 
 ## Contato
 
