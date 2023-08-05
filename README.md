@@ -43,6 +43,8 @@ In the back-end:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=ffffff)
 ![API RESTful](https://img.shields.io/badge/-API%20RESTful-FF5733?style=flat)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bruno-freire)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-232323?style=flat&labelColor=0077B5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bruno-freire-174294240/)
