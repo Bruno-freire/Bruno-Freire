@@ -35,7 +35,7 @@ In the back-end:
 ![Prisma](https://img.shields.io/badge/-Prisma-1B222D?style=flat&logo=prisma&logoColor=38B2AC)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 
-**Outher tools:**
+**Other tools:**
 
 ![npm](https://img.shields.io/badge/-npm-232323?style=flat&labelColor=CB3837&logo=npm&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-232323?style=flat&labelColor=F05032&logo=git&logoColor=ffffff)
@@ -45,7 +45,7 @@ In the back-end:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bruno-freire)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contato
+## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-232323?style=flat&labelColor=0077B5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bruno-freire-174294240/)
  E-mail: brunofreire1717@gmail.com
