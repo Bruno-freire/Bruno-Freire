@@ -23,6 +23,7 @@ In the front-end
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat)
 
 In the back-end:
 
@@ -34,7 +35,7 @@ In the back-end:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
 ![Prisma](https://img.shields.io/badge/-Prisma-1B222D?style=flat&logo=prisma&logoColor=38B2AC)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
 
 **Other tools:**
 
@@ -43,7 +44,6 @@ In the back-end:
 [![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&labelColor=333333&logo=swagger&logoColor=85EA2D)](URL_DO_SEU_DOCUMENTO_SWAGGER)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=ffffff)
 ![API RESTful](https://img.shields.io/badge/-API%20RESTful-FF5733?style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bruno-freire)](https://github.com/anuraghazra/github-readme-stats)
 
