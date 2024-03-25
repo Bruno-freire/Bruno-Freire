@@ -51,7 +51,7 @@ In the back-end:
 ## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-232323?style=flat&labelColor=0077B5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bruno-freire-174294240/)
- E-mail: brunofreire1717@gmail.com
+![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=ffffff): brunofreire1717@gmail.com
 
 
 <!-- And in general:
